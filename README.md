@@ -4,7 +4,7 @@ Various command utilities
 
 ## Building
 
-Build anorm-utils with a regular `cmake` invokation:
+Build anorm-utils with a regular `cmake` invocation:
 
     mkdir build
     cd build
