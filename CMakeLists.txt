@@ -9,6 +9,6 @@ set(CMAKE_CXX_FLAGS "-pedantic -Wall -Wextra -march=native")
 set(CMAKE_CXX_FLAGS_DEBUG "-g")
 set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 
-project (ano-utils)
+project (anorm-utils)
 
 add_executable(word src/word.cpp)
